@@ -1,0 +1,6 @@
+E:\oop2\firstsln\first\bin\Debug\first.exe.config
+E:\oop2\firstsln\first\bin\Debug\first.exe
+E:\oop2\firstsln\first\bin\Debug\first.pdb
+E:\oop2\firstsln\first\obj\Debug\first.csprojResolveAssemblyReference.cache
+E:\oop2\firstsln\first\obj\Debug\first.exe
+E:\oop2\firstsln\first\obj\Debug\first.pdb
