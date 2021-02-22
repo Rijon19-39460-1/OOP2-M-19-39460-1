@@ -10,7 +10,7 @@ namespace LAB_4._5
     {
         static void Main(string[] args)
         {
-            int[] arr = { 1, 1, 4, 5, 6, 6, 7, 9, 9, 9 };
+            int[] arr = { 1,1, 4, 5, 6,6, 7, 9,9,9};
             int size = arr.Length;
             int i, j, k, count;
 
@@ -30,7 +30,7 @@ namespace LAB_4._5
 
                     if (arr[i] == arr[j])
                     {
-                        for (k = j; k < size - 1; k++)
+                        for (k = j; k < size - 1; k++)//2nd ind
                         {
                             arr[k] = arr[k + 1];
                         }
@@ -40,7 +40,6 @@ namespace LAB_4._5
                         count = 0;
                     }
                 }
-
                 if (count != 1)
                 {
                     for (j = i; j < size - 1; j++)
